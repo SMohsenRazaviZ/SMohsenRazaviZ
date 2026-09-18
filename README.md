@@ -19,13 +19,9 @@ Most of my work lives in private repositories.
 
 ![Skills Overview](./assets/skills.svg)
 
-### Most Used Languages
+## Most Used Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMohsenRazaviZ&layout=compact)
 
 <sub>
 Language statistics reflect supported public repositories, not proficiency.
